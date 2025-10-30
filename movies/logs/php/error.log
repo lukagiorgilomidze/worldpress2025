@@ -1,0 +1,66 @@
+[07-Aug-2025 12:10:53 UTC] PHP Warning:  Undefined array key "movie_description" in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 20
+[07-Aug-2025 12:27:15 UTC] PHP Warning:  Array to string conversion in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 23
+[07-Aug-2025 12:41:00 UTC] PHP Warning:  Array to string conversion in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 23
+[07-Aug-2025 12:48:23 UTC] PHP Warning:  Undefined array key "movie_author" in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:51:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:55:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 12:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_term() in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:7
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 7
+[07-Aug-2025 13:17:54 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php:28
+Stack trace:
+#0 C:\Users\Luke\Local Sites\movies\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\Luke\Local Sites\movies\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Luke\\L...')
+#2 C:\Users\Luke\Local Sites\movies\app\public\index.php(17): require('C:\\Users\\Luke\\L...')
+#3 {main}
+  thrown in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 28
+[07-Aug-2025 13:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 33
+[07-Aug-2025 13:29:05 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 34
+[07-Aug-2025 13:29:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 33
+[07-Aug-2025 13:29:29 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 34
+[07-Aug-2025 13:31:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 33
+[07-Aug-2025 13:31:49 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\Users\Luke\Local Sites\movies\app\public\wp-content\themes\movie-theme\single-movie.php on line 34
