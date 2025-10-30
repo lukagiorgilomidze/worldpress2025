@@ -1,0 +1,62 @@
+
+body{
+    padding: 8px 97px;
+
+}
+.custom-logo-link{
+    width: 38px;
+    height: 42px;
+
+}
+.site-header{
+    display: flex;
+    justify-content: space-between !important;
+    align-items: center;
+    width: 100%;
+}
+
+.main-navigation{
+width: fit-content;
+}
+
+.menu-class{
+    display: flex;
+    gap: 26px;
+    list-style: none;
+}
+.menu-class li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+
+
+/* Hero Section CSS */
+
+
+.hero-section{
+    width: 100%;
+    height: 406px;
+    border-radius: 20px;
+
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 24px;
+
+}
+
+.hero-content h1{
+    width: 598px;
+    height: 140px;
+    font-weight: 300;
+    font-size: 64px;
+    color: #FFFFFF;
+
+}

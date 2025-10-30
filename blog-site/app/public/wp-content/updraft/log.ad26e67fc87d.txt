@@ -1,0 +1,203 @@
+0000.001 (0) Opened log file at time: Tue, 30 Sep 2025 17:45:09 +0000 on http://blog-site.local
+0000.011 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.7 WP: 6.8.2 PHP: 8.2.27 (cgi-fcgi, Windows NT DESKTOP-QFBR7B4 10.0 build 22631 (Windows 11) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: en_US Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 4.3M | 6M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.022 (0) Free space on disk containing Updraft's temporary directory: 100831.3 MB
+0000.034 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.044 (0) Semaphore (fd, wp_options) being initialised
+0000.068 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.091 (0) Set semaphore last lock (fd) time to 2025-09-30 17:45:09
+0000.099 (0) Semaphore lock (fd) complete
+0000.129 (0) Backup run: resumption=0, nonce=ad26e67fc87d, file_nonce=ad26e67fc87d begun at=1759254309 (0s ago), job type=backup
+0000.145 (0) Scheduling a resumption (1) after 300 seconds (1759254609) in case this run gets aborted
+0000.212 (0) Checking if we have a zip executable available
+0000.228 (0) Creation of backups of directories: beginning
+0000.252 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.966 (0) Total entities for the zip file: 285 directories, 1933 files (0 skipped as non-modified), 47.2 MB
+0001.022 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.091 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.150 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.217 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.281 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.339 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0001.399 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0001.476 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0001.526 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 1933 files batched, 877 (877) added so far); re-opening (prior size: 0 KB)
+0004.206 (0) A useful amount of data was added after this amount of zip processing: 4.7 s (normalised: 4.7 s, rate: 5414.5 KB/s)
+0004.221 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.7307190895081, normalised_time=4.728053895858, max_time=4.2130851745605, data points known=1, old_max_bytes=26214400, new_max_bytes=33266625)
+0004.256 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 900 files added (on-disk size: 7936.4 KB)
+0004.309 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1000 files added (on-disk size: 7936.4 KB)
+0004.362 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1100 files added (on-disk size: 7936.4 KB)
+0004.430 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1200 files added (on-disk size: 7936.4 KB)
+0004.484 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1300 files added (on-disk size: 7936.4 KB)
+0004.541 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1400 files added (on-disk size: 7936.4 KB)
+0004.622 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1500 files added (on-disk size: 7936.4 KB)
+0004.704 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1600 files added (on-disk size: 7936.4 KB)
+0004.756 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1700 files added (on-disk size: 7936.4 KB)
+0004.830 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1800 files added (on-disk size: 7936.4 KB)
+0004.879 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.6 MB, 1933 files batched, 1001 (1878) added so far); re-opening (prior size: 7936.4 KB)
+0007.016 (0) Zip: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.tmp: 1900 files added (on-disk size: 13739.5 KB)
+0007.421 (0) Creating zip file manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.list-temp.tmp)
+0007.498 (0) Successfully created zip file manifest (size: 162603)
+0007.714 (0) Created plugins zip (0) - 13898.8 KB in 7.4 s (1866.9 KB/s) (sha1: daf1595d283b6233fcf537ff1615993a038c3bac, sha256: a56f021f40ae35bead412896d8d2b0423d2974e83416f256f005a99b9448dfdf)
+0007.744 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0007.755 (0) No remote despatch: user chose no remote backup service
+0007.763 (0) Recording as successfully uploaded: backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip
+0007.780 (0) Deleting zip manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip.list.tmp)
+0007.798 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0007.806 (0) Number of backup sets in history: 0; groups (db): 1
+0007.816 (0) Number of backup sets in history: 0; groups (files): 1
+0007.824 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0007.865 (0) Beginning creation of dump of themes (split every: 400 MB)
+0007.895 (0) Total entities for the zip file: 7 directories, 39 files (0 skipped as non-modified), 0.1 MB
+0007.949 (0) Creating zip file manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-themes.zip.list-temp.tmp)
+0007.958 (0) Successfully created zip file manifest (size: 1749)
+0007.993 (0) Created themes zip (0) - 45.1 KB in 0.1 s (404.3 KB/s) (sha1: be69abbb8b3e15517a044e6a1d257a05fc09f730, sha256: 280aa567b4adea88a1c96b7dd33d403b6977bfdd9fbc82b4dec5a27515d4c9e0)
+0008.018 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.026 (0) No remote despatch: user chose no remote backup service
+0008.033 (0) Recording as successfully uploaded: backup_2025-09-30-1745_blog_site_ad26e67fc87d-themes.zip
+0008.049 (0) Deleting zip manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-themes.zip.list.tmp)
+0008.065 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.076 (0) Number of backup sets in history: 0; groups (db): 1
+0008.083 (0) Number of backup sets in history: 0; groups (files): 1
+0008.093 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.126 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+0008.134 (0) Looking for candidates to backup in: C:\Users\LUKE\Local Sites\blog-site\app\public/wp-content/uploads
+0008.151 (0) finding files: 2025: adding to list (1)
+0008.162 (0) finding files: wpcf7_uploads: adding to list (2)
+0008.170 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0008.206 (0) Total entities for the zip file: 3 directories, 51 files (0 skipped as non-modified), 3.5 MB
+0008.309 (0) Creating zip file manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-uploads.zip.list-temp.tmp)
+0008.318 (0) Successfully created zip file manifest (size: 4099)
+0008.403 (0) Created uploads zip (0) - 3557 KB in 0.2 s (16642.7 KB/s) (sha1: 6a92182ec74edd93332dbaf85bd7231c0e124f6d, sha256: 219fee8f0dee95a24dff938604f0effaefeccc3ba9ddcd28638c4a644832403d)
+0008.428 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.436 (0) No remote despatch: user chose no remote backup service
+0008.445 (0) Recording as successfully uploaded: backup_2025-09-30-1745_blog_site_ad26e67fc87d-uploads.zip
+0008.465 (0) Deleting zip manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-uploads.zip.list.tmp)
+0008.486 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.494 (0) Number of backup sets in history: 0; groups (db): 1
+0008.501 (0) Number of backup sets in history: 0; groups (files): 1
+0008.509 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.535 (0) No backup of mu-plugins: excluded by user's options
+0008.550 (0) Beginning backup of other directories found in the content directory (index: 0)
+0008.558 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0008.565 (0) Looking for candidates to backup in: C:\Users\LUKE\Local Sites\blog-site\app\public/wp-content
+0008.573 (0) finding files: index.php: adding to list (1)
+0008.581 (0) finding files: plugins: skipping: this is the plugins directory
+0008.590 (0) finding files: themes: skipping: this is the themes directory
+0008.598 (0) finding files: updraft: skipping: this is the updraft directory
+0008.606 (0) finding files: upgrade: skipping: excluded by options
+0008.613 (0) finding files: upgrade-temp-backup: adding to list (2)
+0008.621 (0) finding files: uploads: skipping: this is the uploads directory
+0008.642 (0) Total entities for the zip file: 1 directories, 1 files (0 skipped as non-modified), 0 MB
+0008.669 (0) Creating zip file manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-others.zip.list-temp.tmp)
+0008.678 (0) Successfully created zip file manifest (size: 43)
+0008.726 (0) Created others zip (0) - 0.3 KB in 0.1 s (2.9 KB/s) (sha1: 0afdab5ac031823806ee15cce47d39c9df77fe83, sha256: 4e514ef4133fa2da1ffa5e808e3cf6c4dc85809a3ccdd7326592f1b077dc1411)
+0008.756 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0008.763 (0) No remote despatch: user chose no remote backup service
+0008.770 (0) Recording as successfully uploaded: backup_2025-09-30-1745_blog_site_ad26e67fc87d-others.zip
+0008.785 (0) Deleting zip manifest (backup_2025-09-30-1745_blog_site_ad26e67fc87d-others.zip.list.tmp)
+0008.803 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0008.811 (0) Number of backup sets in history: 0; groups (db): 1
+0008.818 (0) Number of backup sets in history: 0; groups (files): 1
+0008.826 (0) Retain: saving new backup history (sets now: 0) and finishing retain operation
+0008.880 (0) Saving backup status to database (elements: 8)
+0008.895 (0) Beginning creation of database dump (WordPress DB)
+0008.903 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0008.979 (0) Table wp_options: Total expected rows (via COUNT): 190
+0008.993 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.047 (0) Table wp_options: Rows added in this batch (next record: 269): 186 (uncompressed bytes in this segment=707258) in 0.08 seconds
+0009.084 (0) Table wp_options: finishing file(s) (2, 170.4 KB)
+0009.109 (0) Table wp_users: Total expected rows (via COUNT): 1
+0009.116 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.133 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1406) in 0.03 seconds
+0009.164 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0009.206 (0) Table wp_usermeta: Total expected rows (via COUNT): 23
+0009.214 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.222 (0) Table wp_usermeta: Rows added in this batch (next record: 23): 23 (uncompressed bytes in this segment=2222) in 0.03 seconds
+0009.258 (0) Table wp_usermeta: finishing file(s) (2, 1.2 KB)
+0009.291 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0009.310 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.03 seconds
+0009.366 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0009.408 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0009.416 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.432 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2118) in 0.03 seconds
+0009.471 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0009.502 (0) Table wp_links: Total expected rows (via COUNT): 0
+0009.519 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.02 seconds
+0009.549 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0009.638 (0) Table wp_postmeta: Total expected rows (via COUNT): 136
+0009.646 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.664 (0) Table wp_postmeta: Rows added in this batch (next record: 158): 136 (uncompressed bytes in this segment=23235) in 0.04 seconds
+0009.702 (0) Table wp_postmeta: finishing file(s) (2, 4.3 KB)
+0009.749 (0) Table wp_posts: Total expected rows (via COUNT): 39
+0009.757 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.778 (0) Table wp_posts: Rows added in this batch (next record: 43): 39 (uncompressed bytes in this segment=32872) in 0.05 seconds
+0009.823 (0) Table wp_posts: finishing file(s) (2, 6 KB)
+0009.851 (0) Table wp_term_relationships: Total expected rows (approximate): 8
+0009.869 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 7 (uncompressed bytes in this segment=767) in 0.02 seconds
+0009.907 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0009.947 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 2
+0009.955 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0009.979 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=941) in 0.05 seconds
+0010.020 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0010.060 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0010.090 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=650) in 0.04 seconds
+0010.138 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0010.166 (0) Table wp_terms: Total expected rows (via COUNT): 2
+0010.174 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0010.190 (0) Table wp_terms: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=757) in 0.03 seconds
+0010.219 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0010.227 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\LUKE\Local Sites\blog-site\app\public/wp-content/updraft/backup_2025-09-30-1745_blog_site_ad26e67fc87d-db.gz (line 1923, C:\Users\LUKE\Local Sites\blog-site\app\public\wp-content\plugins\updraftplus\backup.php)
+0010.237 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_options.table.tmpr270.gz (1/12/fopen): adding to final database dump
+0010.252 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_options.table.gz (2/12/fopen): adding to final database dump
+0010.259 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_users.table.tmpr2.gz (3/12/fopen): adding to final database dump
+0010.267 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_users.table.gz (4/12/fopen): adding to final database dump
+0010.275 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_usermeta.table.tmpr24.gz (5/12/fopen): adding to final database dump
+0010.283 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_usermeta.table.gz (6/12/fopen): adding to final database dump
+0010.290 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_commentmeta.table.tmpr0.gz (7/12/fopen): adding to final database dump
+0010.298 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_commentmeta.table.gz (8/12/fopen): adding to final database dump
+0010.309 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_comments.table.tmpr2.gz (9/12/fopen): adding to final database dump
+0010.316 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_comments.table.gz (10/12/fopen): adding to final database dump
+0010.323 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_links.table.tmpr0.gz (11/12/fopen): adding to final database dump
+0010.332 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_links.table.gz (12/12/fopen): adding to final database dump
+0010.340 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_postmeta.table.tmpr159.gz (13/12/fopen): adding to final database dump
+0010.353 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_postmeta.table.gz (14/12/fopen): adding to final database dump
+0010.375 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_posts.table.tmpr44.gz (15/12/fopen): adding to final database dump
+0010.396 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_posts.table.gz (16/12/fopen): adding to final database dump
+0010.411 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_term_relationships.table.tmpr100001.gz (17/12/fopen): adding to final database dump
+0010.419 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_term_relationships.table.gz (18/12/fopen): adding to final database dump
+0010.423 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_term_taxonomy.table.tmpr3.gz (19/12/fopen): adding to final database dump
+0010.427 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_term_taxonomy.table.gz (20/12/fopen): adding to final database dump
+0010.433 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_termmeta.table.tmpr0.gz (21/12/fopen): adding to final database dump
+0010.437 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_termmeta.table.gz (22/12/fopen): adding to final database dump
+0010.440 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_terms.table.tmpr3.gz (23/12/fopen): adding to final database dump
+0010.443 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db-table-wp_terms.table.gz (24/12/fopen): adding to final database dump
+0010.465 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db.gz: finished writing out complete database file (186.1 KB)
+0010.488 (0) Total database tables backed up: 12 (backup_2025-09-30-1745_blog_site_ad26e67fc87d-db.gz, size: 190694, sha1: ba622a1c07c8a41bedf54f0c30f3a6835a4729c9, sha256: 79ea9cabcabb58dce40cc1a793ac793a69414dee1ef5b368fae5d68c6fa85824)
+0010.506 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-plugins.zip: plugins: This file has already been successfully processed
+0010.509 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-themes.zip: themes: This file has already been successfully processed
+0010.513 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-uploads.zip: uploads: This file has already been successfully processed
+0010.518 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-others.zip: others: This file has already been successfully processed
+0010.521 (0) backup_2025-09-30-1745_blog_site_ad26e67fc87d-db.gz: db: This file has not yet been successfully uploaded: will queue
+0010.526 (0) Saving backup history. Total backup size: 17.3 MB
+0010.546 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0010.587 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0010.593 (0) No remote despatch: user chose no remote backup service
+0010.599 (0) Recording as successfully uploaded: backup_2025-09-30-1745_blog_site_ad26e67fc87d-db.gz
+0010.620 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0010.629 (0) Number of backup sets in history: 1; groups (db): 1
+0010.635 (0) Examining (for databases) backup set with group_id=0, nonce=ad26e67fc87d, datestamp=1759254309 (Sep 30 2025 17:45:09)
+0010.641 (0) This backup set is the backup set just made, so will not be deleted.
+0010.641 (0) Number of backup sets in history: 1; groups (files): 1
+0010.649 (0) Examining (for files) backup set with nonce=ad26e67fc87d, datestamp=1759254309 (Sep 30 2025 17:45:09)
+0010.649 (0) This backup set is the backup set just made, so will not be deleted.
+0010.658 (0) This backup set is the backup set just made, so will not be deleted.
+0010.658 (0) This backup set is the backup set just made, so will not be deleted.
+0010.658 (0) This backup set is the backup set just made, so will not be deleted.
+0010.658 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0010.666 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0010.684 (0) Resume backup (ad26e67fc87d, 0): finish run
+0010.718 (0) Decremented the semaphore (fd) by 1
+0010.733 (0) Semaphore (fd) unlocked
+0010.741 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0010.769 (0) No email will/can be sent - the user has not configured an email address.
+0010.776 (0) The backup succeeded and is now complete
